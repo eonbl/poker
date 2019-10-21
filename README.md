@@ -1,1 +1,3 @@
-# poker
+# Poker
+
+Some poker simulation scripts
